@@ -1,5 +1,4 @@
-<div align="center">
-<h1>CodePay Cloud</h1> 
+# CodePay Cloud
 
 ![CodePay Cloud Logo](./codepay.png)
 
@@ -32,4 +31,3 @@ Authentication is handled through GitHub, Bitbucket, and GitLab. To get started,
 To get started with CodePay Cloud, visit our [login page](https://codepay.cloud/login) and authenticate with your preferred code hosting provider. Once you're logged in, you can start leveraging the power of CodePay Cloud to make your development process more efficient and rewarding.
 
 We're excited to have you on board and can't wait to see what you'll build with CodePay Cloud!
-</div>
