@@ -1,4 +1,6 @@
-# CodePay Cloud 
+<div align="center">
+<h1>CodePay Cloud</h1> 
+
 ![CodePay Cloud Logo](./codepay.png)
 
 Welcome to CodePay Cloud, a revolutionary platform designed to empower developers and streamline the software development process. Our platform is built with the aim of ensuring developers get paid for their work in a transparent and efficient manner.
@@ -30,3 +32,4 @@ Authentication is handled through GitHub, Bitbucket, and GitLab. To get started,
 To get started with CodePay Cloud, visit our [login page](https://codepay.cloud/login) and authenticate with your preferred code hosting provider. Once you're logged in, you can start leveraging the power of CodePay Cloud to make your development process more efficient and rewarding.
 
 We're excited to have you on board and can't wait to see what you'll build with CodePay Cloud!
+</div>
