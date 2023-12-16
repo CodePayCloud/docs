@@ -5,31 +5,41 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CodePay Cloud</title>
     <link rel="icon" href="./codepay.png" type="image/png">
-    <style>
-        body.dark {
-            background-color: #17072B;
-            color: #fff;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            height: 100vh;
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: Arial, sans-serif;
-            text-align: center;
-        }
-        .container {
-            max-width: 50%;
-        }
-        img {
-            border-radius: 50%;
-        }
-        .feature-description {
-            display: none;
-        }
-    </style>
+   <style>
+    body.dark {
+        background-color: #17072B;
+        color: #fff;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: Arial, sans-serif;
+        text-align: center;
+    }
+    .container {
+        max-width: 50%;
+    }
+    img {
+        border-radius: 50%;
+    }
+    .feature-description {
+        display: none;
+    }
+    .feature {
+        cursor: pointer; /* Changes the cursor to a hand when hovering over the feature */
+        transition: transform 0.3s ease; /* Smoothly animates any changes to the transform property */
+    }
+    .feature:hover {
+        transform: scale(1.05); /* Scales up the feature when hovered over */
+    }
+    .feature:active {
+        transform: scale(0.95); /* Scales down the feature when clicked */
+    }
+</style>
 </head>
 <body class="dark">
     <div class="container">
