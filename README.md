@@ -1,4 +1,5 @@
-# CodePay Cloud 💾
+# CodePay Cloud 
+![CodePay Cloud Logo](./codepay.png)
 
 Welcome to CodePay Cloud, a revolutionary platform designed to empower developers and streamline the software development process. Our platform is built with the aim of ensuring developers get paid for their work in a transparent and efficient manner.
 
