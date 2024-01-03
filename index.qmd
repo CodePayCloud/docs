@@ -1,0 +1,75 @@
+---
+title: "CodePay Cloud Investment Deck"
+author: "[🌱 PreSeed Funding](https://codepay.cloud)"
+format:
+  revealjs: 
+    logo: codepay.png
+    slide-number: true
+    slide-tone: false
+    chalkboard: 
+      theme: whiteboard
+      buttons: true
+    preview-links: auto
+    transition: slide
+    background-transition: zoom
+footer: "[Visit App 🚝](https://codepay.cloud)"
+include-in-header:
+  - text: |
+     <link rel = "shortcut icon" href = "codepay.png" />
+  - text: |
+     <link rel="stylesheet" href="custom.css">
+---
+
+# 📑 Our Mission
+
+-   Empower developers and streamline the software development process with CodePay Cloud
+-   Ensure developers get paid for their work in a transparent and efficient manner
+-   Foster a competitive and dynamic development environment through features like bidding on branches
+
+# 💰 Market Opportunity
+
+-   CodePay Cloud provides a one-stop solution for all your development needs, eliminating the need for expensive and long-term contracts
+-   Seamlessly integrates with popular code hosting platforms like GitHub, Bitbucket, and GitLab, automating processes currently being done manually
+
+# 🌱 Pre Seed Funding
+
+-   Seeking investment for further development and expansion of CodePay Cloud
+
+# ✅ Features
+
+-   Pair Programming with AI Chatbot
+-   Bid on Branches
+-   Developer Workspace
+-   Integration with GitHub, Bitbucket, and GitLab
+
+# 💳 Bid on Branches
+
+With CodePay Cloud, developers can bid on branches. This feature allows developers to express interest in working on specific features or fixes, fostering a competitive and dynamic development environment.
+
+# 🌐 Developer Workspace
+
+We provide a dedicated workspace for developers. This workspace is designed to be a one-stop solution for all your development needs, making the process of coding, testing, and deploying software a breeze.
+
+# 💬 AI Chat
+
+-   Our AI chatbot is your personal programming assistant
+-   Leverage AI to help with a variety of tasks, from understanding complex code to debugging issues
+-   Implement our AI into your development process
+
+# 📚 Developer Docs
+
+# 🛠️ Account Settings
+
+-   Authentication is handled through GitHub, Bitbucket, and GitLab
+-   Free and Paid Tiers available
+-   Communication engagement preference
+
+# 💻 Tech Stack Overview
+
+🎈 Frontend with ReactJS
+
+🌐 Backend with Python
+
+💳 Payments with Stripe
+
+🚀 Authentication with Supabase
