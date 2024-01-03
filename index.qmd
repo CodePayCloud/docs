@@ -1,5 +1,5 @@
 ---
-title: "CodePay Cloud Investment Deck"
+title: "CodePay Cloud"
 author: "[🌱 PreSeed Funding](https://codepay.cloud)"
 format:
   revealjs: 
